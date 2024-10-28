@@ -1,7 +1,7 @@
 import sys  #permet d'interagir avec le système d'exploitation, pour quitter proprement le programme
 import pygame   #Importe la bibliothèque pygame
 bonjour = 3
-style = 1000
+style = "nuuuuuuuuuullle le style esteban le + bo"
 class Game:
     def __init__(self):
         pygame.init()
