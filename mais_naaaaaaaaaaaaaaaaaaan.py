@@ -1,1 +1,0 @@
-print("wshhhhhh kel baille")
