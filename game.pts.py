@@ -1,5 +1,6 @@
 import sys  #permet d'interagir avec le système d'exploitation, pour quitter proprement le programme
 import pygame   #Importe la bibliothèque pygame
+bonjour = 3
 class Game:
     def __init__(self):
         pygame.init()
