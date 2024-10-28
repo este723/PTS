@@ -22,4 +22,3 @@ class Game:
      
 Game().run()
 
-bonjour = 2
