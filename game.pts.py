@@ -21,5 +21,3 @@ class Game:
             self.clock.tick(60)
      
 Game().run()
-
-bonjour = 2
