@@ -18,9 +18,9 @@ blk = "bloc"
 ItsRetry = 0
 
 window = pygame.display.set_mode((WIDTH, HEIGHT))
-heart = pygame.transform.scale(pygame.image.load("heart.png"),(30,30))
-BlScreen = pygame.image.load("noir.png")
-WinScreen = pygame.image.load("WinScreen.png")
+heart = pygame.transform.scale(pygame.image.load(join("assets","heart.png")),(30,30))
+BlScreen = pygame.image.load(join("assets","noir.png"))
+WinScreen = pygame.image.load(join("assets","WinScreen.png"))
 
 # class et fonction ##############################################################
 
